@@ -167,3 +167,8 @@ Security
 Status
 Docs
 .DS_Store
+
+.env*
+!.env.project
+!.env.vault
+.flaskenv*
